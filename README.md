@@ -4,6 +4,12 @@
 
 Google Apps Scripts that automates Azuracast, Postiz, Blogger and Kimai to fetch schedules and activities to Google Calendar Aggregates operational data from self-hosted open-source tools into a "Single Pane of Glass" using Google Calendar. It allows teams to visualize Workforce, Broadcast, Social, and Editorial schedules in one unified view without paying for expensive enterprise middleware.
 
+## Author & Acknowledgments
+
+- **Author:** Nash Ang
+- **Portfolio:** https://subtleazn.github.io
+- **Acknowledgments:** This project was built to support the [PinoySeoul Media Enterprise](https://pinoyseoul.com).
+
 ## The Architecture: "Single Pane of Glass"
 
 This framework creates four distinct operational layers in Google Calendar:
@@ -60,10 +66,4 @@ To keep your API keys safe, do not hardcode them. Go to **Project Settings (Gear
 
 ## Contributing
 This project is a proof-of-concept for **Serverless CalOps**. Feel free to fork and add integrations for other tools (Trello, Jira, etc.).
-
-## Author & Acknowledgments
-
-- **Author:** Nash Ang
-- **Portfolio:** https://subtleazn.github.io
-- **Acknowledgments:** This project was built to support the [PinoySeoul Media Enterprise](https://pinoyseoul.com).
 
