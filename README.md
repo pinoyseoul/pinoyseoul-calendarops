@@ -61,5 +61,9 @@ To keep your API keys safe, do not hardcode them. Go to **Project Settings (Gear
 ## Contributing
 This project is a proof-of-concept for **Serverless CalOps**. Feel free to fork and add integrations for other tools (Trello, Jira, etc.).
 
-## License
-MIT
+## Author & Acknowledgments
+
+- **Author:** Nash Ang
+- **Portfolio:** https://subtleazn.github.io
+- **Acknowledgments:** This project was built to support the [PinoySeoul Media Enterprise](https://pinoyseoul.com).
+
