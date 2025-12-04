@@ -1,4 +1,4 @@
-# Google App Scripts-Powered Media Stack (CalendarOps Framework)
+# Google App Script-Powered Calendar Scheduler Stack (CalendarOps Framework)
 
 **A Serverless CalOps (Calendar Operations) Framework for Media Startups.**
 
